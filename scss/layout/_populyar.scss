@@ -1,0 +1,27 @@
+.populyar {
+  margin-top: 140px;
+
+  &__sub-title {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 12px;
+  }
+  &__title {
+    text-align: center;
+    font-size: 48px;
+    font-weight: 400;
+  }
+  &__wrapper {
+    display: flex;
+    gap: 36px;
+  }
+  &__img {
+    padding: 48px;
+    margin-bottom: 56px;
+  }
+  
+}
+&__btn {
+  margin: 0 440px 140px 490px;
+}

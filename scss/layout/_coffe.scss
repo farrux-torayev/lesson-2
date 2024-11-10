@@ -1,0 +1,32 @@
+.coffe {
+  margin-top: 140px;
+  margin-bottom: 140px;
+  &__wrapper {
+    display: flex;
+    background: $bg-color;
+  }
+  &__img {
+    width: 226px;
+    height: 359px;
+    margin: 86px 160px 86px 169px;
+  }
+  &__sub-title {
+    width: 501px;
+    height: 124px;
+    font-size: 48px;
+    font-weight: 400;
+    margin: 72px 114px 36px 0;
+  }
+  &__info {
+    font-family: Urbanist;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28.8px;
+    text-align: left;
+    margin-bottom: 36px;
+  }
+
+  &__btn {
+    margin-bottom: 84px;
+  }
+}

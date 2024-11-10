@@ -1,0 +1,42 @@
+.our-history {
+    margin-top: 140px;
+  &__wrapper {
+    display: flex;
+  }
+  &__title {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    width: 298px;
+  }
+  &__img {
+    width: 298px;
+    margin-left: 32px;
+   
+  }
+  &__info {
+    width: 510px;
+    margin-left: 32px;
+    background:$bg-color;
+
+    h2 {
+      width: 398px;
+      height: 124px;
+      font-size: 48px;
+      font-weight: 400;
+      margin-left: 56px;
+      margin-bottom: 36px;
+    }
+  }
+  &__sub-title {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 126px 0 12px 56px;
+    margin-bottom: 36px;
+    color: #C99E71;
+  }
+&__sub{
+    margin-left: 56px;
+
+}
+}

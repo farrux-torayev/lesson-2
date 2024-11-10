@@ -1,0 +1,30 @@
+.hero{
+    background: center/ cover no-repeat url(/assets/images/Rectangle\ 12.png);
+    background-position: 80%;
+
+    max-width:2600px ;
+    margin: auto;
+
+
+&__title{
+padding-top: 147PX;
+font-size: 72px;
+font-weight: 400;
+margin-bottom: 32px;
+
+}
+
+&__sub-title{
+font-size: 20px;
+font-weight: 500;
+line-height: 36px;
+margin-bottom: 64px;
+
+
+}
+
+&__btn{
+    margin-bottom: 169px;
+}
+
+}

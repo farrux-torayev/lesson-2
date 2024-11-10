@@ -1,0 +1,19 @@
+.best {
+
+margin-top: 140px;
+
+
+  &__wrapper {
+    display: flex;
+    gap: 36px;
+  }
+  &__title {
+    font-size: 24px;
+    font-weight: 400;
+  }
+  &__number {
+    color: #c99e71;
+    font-size: 24px;
+    font-weight: 400;
+  }
+}
